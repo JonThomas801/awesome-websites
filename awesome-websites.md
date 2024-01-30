@@ -1,0 +1,30 @@
+# Awesome Cool Websites
+### This is a list of websites that I find cool or interesting. This is my first time writing in Markdown.
+
+## Web OSes
+Web OSes are operating systems that could be run straight from a web browser. Think of them as online virtual machines.
+* [Infinite Mac](https://infinitemac.org/)
+* [PCjs Machines](https://www.pcjs.org/)
+* [Virtual v86](https://copy.sh/v86/)
+* [Win32.run](https://win32.run/)
+* [Windows 96](https://windows96.net/)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()

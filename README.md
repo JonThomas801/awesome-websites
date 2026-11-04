@@ -13,6 +13,7 @@ This is a list of websites that I find cool or interesting. This is my first tim
 
 ### References
 
+* [Bucketlist.nl Netherlands checklist (Dutch)](https://bucketlist.nl/bucketlist-nederland/checklist) - Free searchable experience checklist with browser-local selections and printing; external activity bookings can be paid.
 * [Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/)
 * [Internet Archive](https://archive.org)
 * [Internet Sacred Text Archive](http://www.sacred-texts.com/index.htm)
